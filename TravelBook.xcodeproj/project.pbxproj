@@ -14,6 +14,7 @@
 		6ECEA7092AD2B282000E76F9 /* TravelBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6ECEA7072AD2B282000E76F9 /* TravelBook.xcdatamodeld */; };
 		6ECEA70B2AD2B283000E76F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6ECEA70A2AD2B283000E76F9 /* Assets.xcassets */; };
 		6ECEA70E2AD2B283000E76F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6ECEA70C2AD2B283000E76F9 /* LaunchScreen.storyboard */; };
+		6ECEA7162AD2B363000E76F9 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECEA7152AD2B363000E76F9 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6ECEA70A2AD2B283000E76F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6ECEA70D2AD2B283000E76F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6ECEA70F2AD2B283000E76F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6ECEA7152AD2B363000E76F9 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				6ECEA6FE2AD2B282000E76F9 /* AppDelegate.swift */,
 				6ECEA7002AD2B282000E76F9 /* SceneDelegate.swift */,
 				6ECEA7022AD2B282000E76F9 /* ViewController.swift */,
+				6ECEA7152AD2B363000E76F9 /* DetailsVC.swift */,
 				6ECEA7042AD2B282000E76F9 /* Main.storyboard */,
 				6ECEA70A2AD2B283000E76F9 /* Assets.xcassets */,
 				6ECEA70C2AD2B283000E76F9 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				6ECEA7032AD2B282000E76F9 /* ViewController.swift in Sources */,
 				6ECEA6FF2AD2B282000E76F9 /* AppDelegate.swift in Sources */,
 				6ECEA7012AD2B282000E76F9 /* SceneDelegate.swift in Sources */,
+				6ECEA7162AD2B363000E76F9 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
